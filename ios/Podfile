@@ -19,7 +19,7 @@ if linkage != nil
 end
 
 # El target principal de la app
-target 'lidos' do
+target 'rnapp' do
   # Configuración de los módulos nativos de React Native
   config = use_native_modules!
 
@@ -44,7 +44,7 @@ target 'lidos' do
   ])
 
   # El target de pruebas de tu app
-  target 'lidosTests' do
+  target 'rnappTests' do
     inherit! :complete
     # Pods para pruebas
   end
