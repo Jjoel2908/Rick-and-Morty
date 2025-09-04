@@ -1,4 +1,4 @@
-package com.lidos
+package com.rnapp
 
 import android.app.Application
 import com.facebook.react.PackageList

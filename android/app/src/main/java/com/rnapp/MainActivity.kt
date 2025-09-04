@@ -1,4 +1,4 @@
-package com.lidos
+package com.rnapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

@@ -32,7 +32,7 @@
           <action android:name="android.intent.action.VIEW" />
           <category android:name="android.intent.category.DEFAULT" />
           <category android:name="android.intent.category.BROWSABLE" />
-          <data android:scheme="lidos" android:host="stripe-redirect" />
+          <data android:scheme="rnapp" android:host="stripe-redirect" />
         </intent-filter>
       </activity>
       <meta-data
