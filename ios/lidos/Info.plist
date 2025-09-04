@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Lidos Pizza</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+
+	<!-- Permiso para la ubicación cuando la app está en uso (iOS 10 y superior) -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Esta aplicación necesita acceso a la ubicación para mostrar información relacionada.</string>
+
+    <!-- Permiso para la ubicación siempre (en segundo plano) (iOS 10 y superior) -->
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Esta aplicación necesita acceso a la ubicación para funcionar correctamente en segundo plano.</string>
+
+    <!-- Permiso combinado para la ubicación en uso y en segundo plano (iOS 11 y superior) -->
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Esta aplicación necesita acceso a la ubicación para funcionar correctamente tanto en primer plano como en segundo plano.</string>
+
+    <!-- Habilitar geolocalización en segundo plano (requerido para actualizaciones en segundo plano) -->
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>location</string>
+    </array>
+
+	<key>UIAppFonts</key>
+	<array>
+		<string>Playball-Regular.ttf</string>
+		<string>Sacramento-Regular.ttf</string>
+		<string>Roboto-Bold.ttf</string>
+		<string>Roboto-Medium.ttf</string>
+		<string>Roboto-SemiBold.ttf</string>
+		<string>WorkSans-Bold.ttf</string>
+		<string>WorkSans-Medium.ttf</string>
+		<string>WorkSans-Regular.ttf</string>
+		<string>WorkSans-SemiBold.ttf</string>
+	</array>
+</dict>
+</plist>

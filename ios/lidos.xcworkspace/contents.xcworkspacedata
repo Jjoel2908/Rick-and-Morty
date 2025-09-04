@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:lidos.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:fonts"
+      name = "fonts">
+      <FileRef
+         location = "group:WorkSans-Regular.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:Roboto-Medium.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:Roboto-Regular.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:Playball-Regular.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:Sacramento-Regular.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:WorkSans-Medium.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:WorkSans-SemiBold.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:Roboto-SemiBold.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:Roboto-Bold.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:WorkSans-Bold.ttf">
+      </FileRef>
+   </Group>
+</Workspace>

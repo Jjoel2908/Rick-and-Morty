@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/WorkSans-Bold.ttf",
+      "sha1": "8aa832d11d326a9638d73123f13a291f9d17cbc2"
+    },
+    {
+      "path": "src/assets/fonts/WorkSans-Medium.ttf",
+      "sha1": "8157befeb8f303271b9c754f55d9bee89d4caac7"
+    },
+    {
+      "path": "src/assets/fonts/WorkSans-Regular.ttf",
+      "sha1": "dde5c5441ea6350524d0e0eb7058c8e672359279"
+    },
+    {
+      "path": "src/assets/fonts/WorkSans-SemiBold.ttf",
+      "sha1": "08d3f4f2abb01cbe8252dba795e27416a05704d6"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "3BFF51436AA7EB995D84CFC592CC63E1316BB400"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "508C35DEE818ADDCE6CC6D1FB6E42F039DA5A7CF"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "FA5192203F85DDB667579E1BDF26F12098BB873B"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-SemiBold.ttf",
+      "sha1": "9CA139684FE902C8310DD82991648376AC9838DB"
+    },
+    {
+      "path": "src/assets/fonts/Sacramento-Regular.ttf",
+      "sha1": "BB942772A1F61C2F6CC0F980A9DA39F1FC602D00"
+    },
+    {
+      "path": "src/assets/fonts/Playball-Regular.ttf",
+      "sha1": "74C50EFFF8004DA7019339E14EA7F8A13D7F8D15"
+    }
+  ]
+}
